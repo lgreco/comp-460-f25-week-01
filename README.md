@@ -1,4 +1,4 @@
-# Week 00: from an abstract data type to a realistic implementation.
+# Week 01: recursive e
 
 The assignment can be found in the Jupyter notebook named [assignment.ipynb](./assignment.ipynb).
 
